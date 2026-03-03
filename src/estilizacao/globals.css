@@ -1,6 +1,6 @@
 
 body {
-  margin: 10px;
+  margin: 0;
   display: flex;
   /* place-items: center; */
   min-width: 320px;
@@ -11,14 +11,14 @@ h1 {
   font-size: 28px; 
   font-weight: bold;
   line-height: 1.1;
-  margin: 15px 0;
+  margin: 20px;
 }
 
 h2 {
   font-size: 23px; 
   font-weight: bold;
   line-height: 1.1;
-  margin: 9px 0;
+  margin: 10px;
 }
 
 h3 {
