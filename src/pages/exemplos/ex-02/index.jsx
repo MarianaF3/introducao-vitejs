@@ -1,8 +1,8 @@
-import './index.css'
+import './index.module.css'
 
 function Exemplo02() {
   return (
-    <div className='container'>
+    <div className={Styles.container}>
       <p>Teste</p>
       <h1>Programação WEB III</h1>      
       <h2>Aula React com Vite JS</h2>
@@ -19,4 +19,4 @@ function Exemplo02() {
   )
 }
 
-export default App
+export default Exemplo02
