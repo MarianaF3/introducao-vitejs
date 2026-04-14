@@ -20,6 +20,7 @@ function Home() {
             <div className={styles.containerItens}>
                 <h2>Atividades</h2>
                  <Link to="/atividade/1">Atividade 1 - primeira atividade de estilização</Link>
+                 <Link to="/atividade/2">Atividade 2 - uso de State</Link>
 
             </div>
         </div>
