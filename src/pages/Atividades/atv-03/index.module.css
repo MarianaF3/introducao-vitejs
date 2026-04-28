@@ -1,0 +1,25 @@
+
+  .container {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  width: fit-content;
+  margin: 50px auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.botoes {
+  border: none;
+  padding: flex;
+  margin: 20px;
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.verde { background-color: green; padding: flex; }
+.azul { background-color: #17a2b8; padding: flex; }
+.laranja { background-color: orange; padding: flex; }
+.vermelho { background-color: crimson; padding: flex; }
+.cinza { background-color: gray; padding: flex; }

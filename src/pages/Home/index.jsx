@@ -22,6 +22,7 @@ function Home() {
                 <h2>Atividades</h2>
                  <Link to="/atividade/1">Atividade 1 - primeira atividade de estilização</Link>
                  <Link to="/atividade/2">Atividade 2 - uso de State</Link>
+                 <Link to="/atividade/3">Atividade 3 - uso de State</Link>
 
             </div>
         </div>

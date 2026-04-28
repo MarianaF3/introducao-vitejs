@@ -7,6 +7,7 @@ import Exemplo03 from './pages/exemplos/ex-03';
 import Exemplo04 from './pages/exemplos/ex-04';
 import Atividade01 from './pages/atividades/atv-01';
 import Atividade02 from './pages/atividades/atv-02';
+import Atividade03 from './pages/atividades/atv-03';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
       <Route path='/exemplo/4' element={<Exemplo04 />} />
       <Route path='/atividade/1' element={<Atividade01 />} />
       <Route path='/atividade/2' element={<Atividade02 />} />
+      <Route path='/atividade/3' element={<Atividade03 />} />
       
       
 
