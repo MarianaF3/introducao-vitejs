@@ -1,0 +1,45 @@
+/* centraliza tudo na tela */
+.page {
+    background: #eeeeee;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; /* CENTRALIZA VERTICAL */
+}
+
+/* caixa */
+.container {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    width: 420px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+/* form alinhado corretamente */
+.formulario {
+    display: flex;
+    justify-content: center; /* CENTRALIZA HORIZONTAL */
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+/* quantidade menor */
+.qtd {
+    width: 60px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+/* produto maior */
+.produto {
+    width: 180px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+}
