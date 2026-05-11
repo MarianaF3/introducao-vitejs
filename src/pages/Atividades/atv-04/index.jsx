@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-export default function Exemplo05() {
+export default function Atividade04() {
     
     const [qtd, setQtd] = useState('');
     const [produto, setProduto] = useState('');
